@@ -5,22 +5,32 @@
 
 ---
 
-## 📚 Conhecimentos
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=le44l&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=le44l&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=le44l&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=le44l&layout=compact&theme=tokyonight)
+## 📚 Conhecimentos
+<div style="display: inline_block"><br>
+  <img align="center" alt="Arthur-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Arthur-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Arthur-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Arthur-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Arthur-Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Arthur-Networking" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3069/3069188.png">
+</div>
 
 ---
 
 ## 📫 Contato
-- 📧 Email: **arthurlealcosta10@gmail.com**  
-- 💼 LinkedIn: [Arthur Leal](https://www.linkedin.com/in/arthur-leal-466853339/)
+<div align="center">  
+  <a href="mailto:arthurlealcosta10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-leal-466853339/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
